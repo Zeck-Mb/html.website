@@ -25,7 +25,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
+
 
 header {
     padding: 60px 20px;
@@ -63,7 +63,7 @@ header p:first-of-type {
     font-family: monospace;
 }
 
-/* Button */
+
 
 .hero-button {
     display: inline-block;
@@ -83,7 +83,7 @@ header p:first-of-type {
     transform: translateY(-4px);
 }
 
-/* Navigation */
+
 
 nav {
     position: sticky;
@@ -110,7 +110,7 @@ nav a:hover {
     transform: translateY(-3px);
 }
 
-/* Main content */
+
 
 main {
     width: 90%;
@@ -151,7 +151,7 @@ a {
     color: #c4ff00;
 }
 
-/* Project cards */
+
 
 .project-container {
     display: grid;
@@ -177,7 +177,7 @@ a {
     font-weight: bold;
 }
 
-/* Footer */
+
 
 footer {
     padding: 25px;
@@ -186,7 +186,7 @@ footer {
     border-top: 2px solid #c4ff00;
 }
 
-/* Mobile layout */
+
 
 @media (max-width: 700px) {
     header h1 {
